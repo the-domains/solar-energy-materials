@@ -1,0 +1,28 @@
+name: Solar Energy Materials
+favicon: null
+layout_spectrum: 0.24066590704023838
+typography_spectrum: 0.8391954931430519
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.542513984721154
+  lightness: 0.537243633531034
+  saturation: 0.9814717313274741
+  rhythmicContrast: 0.37881463509984314
+purpose: []
